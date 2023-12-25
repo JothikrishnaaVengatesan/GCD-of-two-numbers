@@ -32,10 +32,6 @@ def gcd():
             hcf=i
     print("GCD of two numbers is:",hcf)
  ~~~
-
-
-
-
 ## Output:
 
 ![Screenshot 2023-12-25 130354](https://github.com/JothikrishnaaVengatesan/GCD-of-two-numbers/assets/148514555/b0f35a84-025c-4761-a438-649a09b61cfa)
